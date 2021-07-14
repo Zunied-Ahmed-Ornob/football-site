@@ -271,7 +271,7 @@ footer {
     }
 
     .banner-image img {
-        width: 25%;
+        width: 24%;
         margin-left: 7px;
     }
 
@@ -365,10 +365,15 @@ footer {
     .footer-image img {
         width: 321.87px;
         margin-top: -74px;
+        margin-right: 75px;
     }
 
-    .social-media {
-        margin-left: 79px;
+  
+    .social-media-icon{
+        margin-left: 76px;
+    }
+    .copyright{
+        margin-left: 76px;
 
     }
 
